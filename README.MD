@@ -28,8 +28,8 @@ OS layouts do frontend e do mobile se encontram disponíveis no figma, através 
 
 ## :rocket: Tecnologias utilizadas
 
-Para a resolução do desafio final, foram utilizadas as seguintes tecnologias:
+(dosponível após a conclusão do projeto)
 
 ## :rocket: Instalação e execução
 
-A seguir, estão descritos todos os passos para a instalação e execução
+(dosponível após a conclusão do projeto)
